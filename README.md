@@ -17,3 +17,10 @@ FireBot merupakan Telegram Bot yang dapat mengetahui/menginformasikan kepada pen
 
 # Flow Chart
 ![flow_chart](https://user-images.githubusercontent.com/65294264/127246437-b46510d3-9256-4ac7-a113-7852b8488d36.png)
+
+# Schematic
+![schematic](https://user-images.githubusercontent.com/65294264/127263645-e6d53c29-ac94-4c06-b4cc-9a476813d50b.png)
+
+# Topology Architecture
+![topology](https://user-images.githubusercontent.com/65294264/127263731-864c50bf-837e-417b-88e2-d4530d7e17d1.png)
+
