@@ -14,3 +14,6 @@ FireBot merupakan sebuah bot telegram yang dapat memberi peringatan dini mengena
 
 # How does FireBot Works?
 FireBot merupakan Telegram Bot yang dapat mengetahui/menginformasikan kepada pengguna mengenai titik api berada. Dengan berbasis IoT pengguna dapat mengetahuinya melalui handphone yang terhubung dalam satu jaringan internet, sehingga dengan adanya FireBot ini pengguna dapat dengan tanggap mengetahui keadaan ruangan dalam suatu rumah/gedung.
+
+# Flow Chart
+![flow_chart](https://user-images.githubusercontent.com/65294264/127246437-b46510d3-9256-4ac7-a113-7852b8488d36.png)
